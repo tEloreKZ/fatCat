@@ -1,0 +1,20 @@
+{
+  "name": "fatcat",
+  "version": "1.0.0",
+  "description": "FatCat bot created by tElore.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tElore",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.0",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1",
+    "request": "^2.88.0",
+    "snekfetch": "^4.0.4",
+    "superagent": "^5.0.5"
+  }
+}
